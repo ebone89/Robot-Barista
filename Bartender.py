@@ -32,4 +32,7 @@ print("Thank you. Your total is: $" + str(total))
 #Final statement
 print("Sounds good " + name + ", we'll have your " + quantity + " " + order + " ready for you in a moment.")
 
+#This is a test to see if its working on git
+
+
 
